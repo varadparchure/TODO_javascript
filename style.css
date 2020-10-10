@@ -1,0 +1,52 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+body
+{
+ background-color: #352f5b;
+}
+
+
+.container
+{
+   width: 50%;
+}
+
+.main-heading
+{
+    margin: 20px 0;
+    font-weight: 600;
+color: white;
+    text-transform: uppercase;
+}
+
+.md-form
+{
+    margin: 50px 0;
+   
+    
+}
+
+.list-group
+{
+    margin-bottom: 50px;
+}
+
+
+
+.delete
+{
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+
+/* this is for js filtered class which we made in js file to hide and keep seaarched terms */
+
+.filtered
+{
+    display: none !important;
+}
